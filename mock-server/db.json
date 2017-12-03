@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "firstName": "Elnaz",
+      "lastName": "Nikbin",
+      "email": "elnaz.nikbin@yahoo.com",
+      "birthDate": "1986-09-22",
+      "location": [
+        -37.8151105,
+        144.9624782
+      ],
+      "id": 1
+    }
+  ]
+}
